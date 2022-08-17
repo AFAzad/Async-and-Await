@@ -1,0 +1,16 @@
+[{
+    "name": "Abul Azad",
+    "age" : "24",
+    "city" : "Kolkata"
+},
+{
+    "name": "Gayatri Wankhede",
+    "age" : "21",
+    "city" : "Amravati"
+},
+{
+    "name": "Prasad Pawar",
+    "age" : "28",
+    "city" : "Pune"
+}
+]
